@@ -1,0 +1,42 @@
+
+body{
+    background-color: teal;
+}
+
+.main_div{
+    margin: auto;
+    align-items: center;
+    text-align: center;
+}
+
+h1{
+    color: white;
+}
+input{
+    margin-right: 10px;
+    font-size: 15px;
+    height: 25px;
+    width: 500px;
+    border: 2px solid white;
+    border-radius: 10px;
+    outline: none;
+    text-align: center;
+    box-shadow: rgba(0, 0, 0, 0.09) 0px 2px 1px, rgba(0, 0, 0, 0.09) 0px 4px 2px, rgba(0, 0, 0, 0.09) 0px 8px 4px, rgba(0, 0, 0, 0.09) 0px 16px 8px, rgba(0, 0, 0, 0.09) 0px 32px 16px;
+}
+input:hover{
+    background-color: wheat;
+}
+.add{
+   
+    font-size: 20px;
+    width: 50px;
+    background-color: white;
+    border: none;
+    width: 92px;
+    border-radius: 15px;
+    padding: 4px;
+    box-shadow: rgba(0, 0, 0, 0.09) 0px 2px 1px, rgba(0, 0, 0, 0.09) 0px 4px 2px, rgba(0, 0, 0, 0.09) 0px 8px 4px, rgba(0, 0, 0, 0.09) 0px 16px 8px, rgba(0, 0, 0, 0.09) 0px 32px 16px;
+}
+.add:hover{
+    background-color: wheat;
+}
